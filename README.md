@@ -16,7 +16,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🔭 Currently working on
 **Devsko** — AI assessment, interview & hiring platform
@@ -29,14 +29,7 @@ Angular · LangGraph agentic AI · System Design
 React · Next.js · TypeScript · WebSockets · Frontend performance · AI integrations
 
 ### 📫 Reach me at
-**soumyaparmar001@gmail.com**
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=soumyaParmar&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Soumya's GitHub stats" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyaParmar&layout=compact&hide_border=true" alt="Top languages" width="100%"/>
+**soumyaparmar00@gmail.com**
 
 </td>
 </tr>
