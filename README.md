@@ -2,12 +2,12 @@
 
 # Hi 👋, I'm Soumya Parmar
 
-### Frontend Developer · React · Next.js · TypeScript · AI Systems
+### Full Stack Developer · React · Next.js · Node.js · TypeScript · AI Systems
 
 <p>
-  3 years building scalable, high-performance web applications.<br/>
+  3 years building scalable, high-performance web applications across the entire stack.<br/>
   Currently crafting an AI-powered hiring platform at <strong>CoEdify Technology</strong>.<br/>
-  Passionate about real-time systems, clean UI architecture, and agentic AI workflows.
+  Passionate about real-time systems, clean architecture, and agentic AI workflows.
 </p>
 
 </div>
@@ -20,13 +20,13 @@
 
 ### 🔭 Currently working on
 **Devsko** — AI assessment, interview & hiring platform
-`WebSockets` `Next.js` `TypeScript` `AI Proctoring`
+`WebSockets` `Next.js` `Node.js` `TypeScript` `LangGraph` `AI Proctoring`
 
 ### 🌱 Currently learning
-Angular · LangGraph agentic AI · System Design
+LangGraph agentic AI · System Design · MCP (Model Context Protocol) · Vector Database (pgvector) · RAG (Retrieval-Augmented Generation)
 
 ### 💬 Ask me about
-React · Next.js · TypeScript · WebSockets · Frontend performance · AI integrations
+React · Next.js · TypeScript · Node.js · WebSockets · Frontend performance · AI integrations · LangChain/LangGraph
 
 ### 📫 Reach me at
 **soumyaparmar00@gmail.com**
@@ -94,9 +94,6 @@ React · Next.js · TypeScript · WebSockets · Frontend performance · AI integ
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/><br/><sub><b>Redux</b></sub>
   </td>
   <td align="center" width="90">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" alt="Angular"/><br/><sub><b>Angular</b></sub>
-  </td>
-  <td align="center" width="90">
     <img src="https://www.vectorlogo.zone/logos/webpack/webpack-icon.svg" width="40" height="40" alt="Webpack"/><br/><sub><b>Webpack</b></sub>
   </td>
   <td align="center" width="90">
@@ -108,24 +105,35 @@ React · Next.js · TypeScript · WebSockets · Frontend performance · AI integ
 </tr>
 </table>
 
-#### Backend & AI
+#### Backend
 <table>
 <tr>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/><br/><sub><b>FastAPI</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/><br/><sub><b>Node.js</b></sub>
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/><sub><b>Python</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js"/><br/><sub><b>Express.js</b></sub>
   </td>
+</tr>
+</table>
+
+#### AI & Agentic Systems
+<table>
+<tr>
   <td align="center" width="90">
     <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40" alt="LangChain"/><br/><sub><b>LangChain</b></sub>
   </td>
   <td align="center" width="90">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/><br/><sub><b>PyTorch</b></sub>
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40" alt="LangGraph"/><br/><sub><b>LangGraph</b></sub>
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/><br/><sub><b>NumPy</b></sub>
-  </td>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40" alt="RAG"/>
+  <br/><sub><b>RAG</b></sub>
+</td>
+  <td align="center" width="90">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="pgvector"/>
+  <br/><sub><b>pgvector</b></sub>
+</td>
 </tr>
 </table>
 
