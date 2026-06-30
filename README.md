@@ -5,7 +5,7 @@
 ### Full Stack Developer · React · Next.js · Node.js · TypeScript · AI Systems
 
 <p>
-  3 years building scalable, high-performance web applications across the entire stack.<br/>
+  3+ years building scalable, high-performance web applications across the entire stack.<br/>
   Currently crafting an AI-powered hiring platform at <strong>CoEdify Technology</strong>.<br/>
   Passionate about real-time systems, clean architecture, and agentic AI workflows.
 </p>
